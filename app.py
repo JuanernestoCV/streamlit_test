@@ -4,3 +4,4 @@
 
 #st.write('Esta aplicación aún no es funcional. En construcción.')
 print("Hello world")
+print()
